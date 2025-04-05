@@ -1,1 +1,1 @@
-# -PwC-Switzerland-Power-BI-in-Data-Analytics
+# PwC-Switzerland-Power-BI-in-Data-Analytics
