@@ -28,7 +28,7 @@ To download the `.pbix` files, navigate to the folder in this repository where t
 
 The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations. 
 
-Access [here](link here---task-1-call-center-trends-power-bi) for live and interactive dashboards.
+Task-1-call-center-trends-power-bi.
 
 <p align="center">
     <img src="/Call%20Centre%20Trends-1.png" alt="Call Centre Trends" style="width: 80%"/>
@@ -38,7 +38,7 @@ Access [here](link here---task-1-call-center-trends-power-bi) for live and inter
 
 This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
 
-Access [here](link here---task-2-customer-churn-and-risk-analysis-power-bi) for live and interactive dashboards.
+Task-2-customer-churn-and-risk-analysis-power-bi.
 
 <p align="center">
     <img src="/Customer%20Churn%20and%20Risk%20Analysis-1.png" alt="Customer Retention 1" style="width: 80%"/>
@@ -52,7 +52,7 @@ Access [here](link here---task-2-customer-churn-and-risk-analysis-power-bi) for 
 
 Focusing on the telecom client's goal of improving gender balance at the executive management level, this dashboard visualizes metrics related to diversity and inclusion, offering insights into current trends and areas for action.
 
-Access [here](link here---task-3-diversity--inclusion-power-bi) for live and interactive dashboards.
+Task-3-diversity--inclusion-power-bi.
 
 <p align="center">
     <img src="/Diversity%20&%20Inclusion-1.png" alt="Diversity & Inclusion 1" style="width: 80%"/>
